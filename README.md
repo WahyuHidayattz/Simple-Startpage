@@ -34,4 +34,8 @@ you will find that template links, just edit it.
 
 Ofc, see image below vvv
 
+![](/art/light.png)
+
+![](/art/dark.png)
+
 
