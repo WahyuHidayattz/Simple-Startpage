@@ -28,7 +28,7 @@ Tools i used ?
 
 `Open startpage folder > config.js`
 
-you will find that template links, just edit it.
+you will find the template links, just edit it.
 
 ## Are there some Screenshots ?
 
