@@ -14,8 +14,8 @@ for (const list of CONFIG.cardItem) {
 for (const list of CONFIG.bottomLinks) {
     let item = `
     <a href="${list.link}" target="_blank" class="flex flex-row items-center gap-2 px-6 py-2 text-white transition duration-300 rounded-lg shadow-xl bg-violet-600 hover:bg-violet-500 dark:text-slate-900">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M5 2a1 1 0 011 1v1h1a1 1 0 010 2H6v1a1 1 0 01-2 0V6H3a1 1 0 010-2h1V3a1 1 0 011-1zm0 10a1 1 0 011 1v1h1a1 1 0 110 2H6v1a1 1 0 11-2 0v-1H3a1 1 0 110-2h1v-1a1 1 0 011-1zM12 2a1 1 0 01.967.744L14.146 7.2 17.5 9.134a1 1 0 010 1.732l-3.354 1.935-1.18 4.455a1 1 0 01-1.933 0L9.854 12.8 6.5 10.866a1 1 0 010-1.732l3.354-1.935 1.18-4.455A1 1 0 0112 2z" clip-rule="evenodd" />
         </svg>
         ${list.name}
     </a>
@@ -24,8 +24,8 @@ for (const list of CONFIG.bottomLinks) {
 }
 
 let array_month = [
-    {'01' : 'Januari'},{'02' : 'Febrauri'},{'03' : 'Maret'},{'04' : 'April'},{'05' : 'Mei'},{'06' : 'Juni'},{'07' : 'Juli'},
-    {'08' : 'Agustus'},{'09' : 'September'},{'10' : 'Oktober'},{'11' : 'November'},{'12' : 'Desember'},
+    { '01': 'Januari' }, { '02': 'Febrauri' }, { '03': 'Maret' }, { '04': 'April' }, { '05': 'Mei' }, { '06': 'Juni' }, { '07': 'Juli' },
+    { '08': 'Agustus' }, { '09': 'September' }, { '10': 'Oktober' }, { '11': 'November' }, { '12': 'Desember' },
 ]
 var today = new Date();
 var dd = String(today.getDate()).padStart(2, '0');
