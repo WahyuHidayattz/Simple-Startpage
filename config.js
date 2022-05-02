@@ -16,7 +16,7 @@ const CONFIG = {
             {name:'Youtube',link:'https://youtube.com'}
         ]},
         {title:'Google Apps', links:[
-            {name:'Gmail',link:'https://mail.google.com'}
+            {name:'Gmail',link:'https://mail.google.com'},
             {name:'Docs',link:'https://docs.google.com/document/u/0/'},
             {name:'Drive',link:'https://drive.google.com/'},
             {name:'Forms',link:'https://docs.google.com/forms/u/0/'},
