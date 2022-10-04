@@ -12,7 +12,7 @@ const CONFIG = {
         {title:'Social Media', links:[
             {name:'Whatsapp',link:'https://web.whatsapp.com'},
             {name:'Telegram',link:'https://web.telegram.org'},
-            {name:'Google',link:'https://google.com'},
+            {name:'Instagram',link:'https://instagram.com'},
             {name:'Youtube',link:'https://youtube.com'}
         ]},
         {title:'Google Apps', links:[
@@ -21,17 +21,17 @@ const CONFIG = {
             {name:'Drive',link:'https://drive.google.com/'},
             {name:'Forms',link:'https://docs.google.com/forms/u/0/'},
         ]},
-        {title:'Other Title', links:[
+        {title:'Entertaiment', links:[
             {name:'Meownime',link:'http://meownime.moe'},
             {name:'Kusonime',link:'http://kusonime.com'},
             {name:'Anoboy',link:'http://anoboy.cc'},
             {name:'Oploverz',link:'http://oploverz.asia'}
         ]},
-        {title:'Other Title', links:[
-            {name:'Link 1',link:'http://'},
-            {name:'Link 2',link:'http://'},
-            {name:'Link 3',link:'http://'},
-            {name:'Link 4',link:'http://'}
+        {title:'Tech Web', links:[
+            {name:'Figma',link:'https://figma.com'},
+            {name:'Github/w',link:'https://github.com/wahyuhidayattz'},
+            {name:'Link 3',link:'https://'},
+            {name:'Link 4',link:'https://'}
         ]},
     ],
 }
