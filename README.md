@@ -1,6 +1,18 @@
 # Simple Startpage
 
-This is simple startpage made by me, inspired by bento startpage :D.
+Startpage is a custom main browser page, created using HTML, Tailwindcss and Javascript. Startpage is used to make it easier to access your favorite website just by opening a browser and clicking the link on this startpage.
+
+## How to use in my Browser
+
+### Firefox Browser
+
+1. Open Settings
+2. Choose Home Settings (Click Home in left side menu settings)
+3. Edit Homepage and new window 
+4. type path location startpage example : `C:\xampp\htdocs\startpage\index.html`
+
+Other browsers area simillar settings.
+
 
 ## What in this startpage ?
 
@@ -34,6 +46,6 @@ you will find the template links, just edit it.
 
 Ofc, see image below vvv
 
-![](/art/light-1.png)
+![](/art/light.png)
 
-![](/art/dark-1.png)
+![](/art/dark.png)
