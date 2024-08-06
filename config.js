@@ -29,9 +29,9 @@ const CONFIG = {
         ]},
         {title:'Tech Web', links:[
             {name:'Figma',link:'https://figma.com'},
-            {name:'Github/w',link:'https://github.com/wahyuhidayattz'},
-            {name:'Link 3',link:'https://'},
-            {name:'Link 4',link:'https://'}
+            {name:'Git/Wahyu',link:'https://github.com/wahyuhidayattz'},
+            {name:'whimsical',link:'https://whimsical.com'},
+            {name:'Lucid App',link:'https://lucid.app'}
         ]},
     ],
 }
